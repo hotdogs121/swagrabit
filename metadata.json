@@ -2,10 +2,23 @@
   "name": "SwagRibbit",
   "symbol": "FLEXT",
   "description": "World's most stylish ribbit meme token.",
+  "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/SwagRibbit.png",
   "external_url": "https://swagribbit.com",
-  "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/metadata.json",
+  "attributes": [],
   "properties": {
-    "twitter": "https://twitter.com/swagribbit"
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/SwagRibbit.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "CViYa3GQH6c5zQpHD4hWc553krsSeRrVYARRJKi3YUyo",
+        "share": 100
+      }
+    ]
   }
 }
