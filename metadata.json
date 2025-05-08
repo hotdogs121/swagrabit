@@ -1,13 +1,16 @@
 {
   "name": "SwagRibbit",
   "symbol": "FLEXT",
-  "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/metadata.json",
-  "seller_fee_basis_points": 0,
-  "creators": [
-    {
-      "address": "CViYa3GQH6c5zQpHD4hWc553krsSeRrVYARRJKi3YUyo",
-      "verified": true,
-      "share": 100
-    }
-  ]
+  "description": "SwagRibbit is a meme token launched on Solana Devnet.",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/SwagRibbit.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/SwagRibbit.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
