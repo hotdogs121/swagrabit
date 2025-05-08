@@ -1,0 +1,10 @@
+{
+  "name": "SwagRibbit",
+  "symbol": "FLEXT",
+  "description": "World's most stylish ribbit meme token.",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/SwagRibbit.png",
+  "external_url": "https://swagribbit.com",
+  "properties": {
+    "twitter": "https://twitter.com/swagribbit"
+  }
+}
