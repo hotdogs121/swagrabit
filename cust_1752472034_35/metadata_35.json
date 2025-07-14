@@ -1,0 +1,23 @@
+{
+  "name": "MOONA",
+  "symbol": "MOONA",
+  "description": "moona to moon",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752472034_35/SwagRibbit_35.png",
+  "attributes": [],
+  "external_url": "moona.com",
+  "twitter": "moona",
+  "metadata_uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752472034_35/metadata_35.json",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752472034_35/SwagRibbit_35.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752472034_35/metadata_35.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image"
+  }
+}
