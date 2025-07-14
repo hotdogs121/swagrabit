@@ -1,0 +1,23 @@
+{
+  "name": "MOONC",
+  "symbol": "MOONC",
+  "description": "MOONC to moon",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752475711_37/SwagRibbit_37.png",
+  "attributes": [],
+  "external_url": "MOONC.com",
+  "twitter": "MOONC",
+  "metadata_uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752475711_37/metadata_37.json",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752475711_37/SwagRibbit_37.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752475711_37/metadata_37.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image"
+  }
+}
