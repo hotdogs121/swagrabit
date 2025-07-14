@@ -1,0 +1,23 @@
+{
+  "name": "MOONB",
+  "symbol": "MOONB",
+  "description": "moonb to moon",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752472415_36/SwagRibbit_36.png",
+  "attributes": [],
+  "external_url": "moonb.com",
+  "twitter": "moonb",
+  "metadata_uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752472415_36/metadata_36.json",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752472415_36/SwagRibbit_36.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752472415_36/metadata_36.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image"
+  }
+}
