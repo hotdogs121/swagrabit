@@ -1,0 +1,23 @@
+{
+  "name": "MOOND",
+  "symbol": "MOOND",
+  "description": "MOOND to moon",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752476054_40/SwagRibbit_40.png",
+  "attributes": [],
+  "external_url": "MOOND.com",
+  "twitter": "MOOND",
+  "metadata_uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752476054_40/metadata_40.json",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752476054_40/SwagRibbit_40.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1752476054_40/metadata_40.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image"
+  }
+}
