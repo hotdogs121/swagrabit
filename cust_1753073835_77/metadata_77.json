@@ -1,0 +1,23 @@
+{
+  "name": "moon21",
+  "symbol": "MOON",
+  "description": "MOON",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753073835_77/SwagRibbit_77.png",
+  "attributes": [],
+  "external_url": "MOON",
+  "twitter": "MOON",
+  "metadata_uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753073835_77/metadata_77.json",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753073835_77/SwagRibbit_77.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753073835_77/metadata_77.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image"
+  }
+}
