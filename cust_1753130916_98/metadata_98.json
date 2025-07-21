@@ -1,0 +1,23 @@
+{
+  "name": "SwagRibbit",
+  "symbol": "SWG",
+  "description": "The Ribbit of the future",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753130916_98/SwagRibbit_98.png",
+  "attributes": [],
+  "external_url": "https://swagribbit.xyz",
+  "twitter": "@swagribbit",
+  "metadata_uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753130916_98/metadata_98.json",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753130916_98/SwagRibbit_98.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753130916_98/metadata_98.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image"
+  }
+}
