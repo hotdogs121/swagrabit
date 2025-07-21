@@ -1,0 +1,23 @@
+{
+  "name": "MOON",
+  "symbol": "MOON",
+  "description": "Moon Meme Token",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753084797_84/SwagRibbit_84.png",
+  "attributes": [],
+  "external_url": "https://moon.com",
+  "twitter": "https://twitter.com/moon",
+  "metadata_uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753084797_84/metadata_84.json",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753084797_84/SwagRibbit_84.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753084797_84/metadata_84.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image"
+  }
+}
