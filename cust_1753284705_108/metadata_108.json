@@ -1,0 +1,23 @@
+{
+  "name": "Test Token",
+  "symbol": "TEST",
+  "description": "This is a test token created via script.",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753284705_108/SwagRibbit_108.png",
+  "attributes": [],
+  "external_url": "https://swagribbit.xyz",
+  "twitter": "https://twitter.com/swag_ribbit",
+  "metadata_uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753284705_108/metadata_108.json",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753284705_108/SwagRibbit_108.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753284705_108/metadata_108.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image"
+  }
+}
