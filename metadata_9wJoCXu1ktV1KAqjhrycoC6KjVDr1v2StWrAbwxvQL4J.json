@@ -1,0 +1,33 @@
+# Copy PNG file to GitHub repo
+cp "/Users/spacetech2/Downloads/Solana-Token-all-in/SwagRibbit.png" "/Users/spacetech2/Downloads/Solana-Token-all-in/swagrabit/"
+
+# Add image and metadata to Git
+cd "/Users/spacetech2/Downloads/Solana-Token-all-in/swagrabit"
+git add "SwagRibbit.png" "metadata_9wJoCXu1ktV1KAqjhrycoC6KjVDr1v2StWrAbwxvQL4J.json"
+git commit -m "Add metadata and logo for 9wJoCXu1ktV1KAqjhrycoC6KjVDr1v2StWrAbwxvQL4J"
+git push origin "main"
+
+{
+  "name": "SwagRibbit Token",
+  "symbol": "SWAG",
+  "description": "The official SwagRibbit meme token on Solana Devnet.",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/SwagRibbit.png",
+  "external_url": "https://swagribbit.xyz",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/SwagRibbit.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "swgQzagBtuvdWuoCZv6v1bKAU99Uw2sDFrUR8G86RXT",
+        "share": 100
+      }
+    ]
+  }
+}
