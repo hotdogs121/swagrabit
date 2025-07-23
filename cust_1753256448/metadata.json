@@ -1,0 +1,8 @@
+{
+  "name": "MoonToken",
+  "symbol": "MOON",
+  "description": "SwagRibbit custom token on Solana Devnet",
+  "mint": "3VYyBoizr92SkqmBGAkJ8NhS6JspCvVXN99WqrNKGavZ",
+  "recipient": "CViYa3GQH6c5zQpHD4hWc553krsSeRrVYARRJKi3YUyo",
+  "timestamp": "2025-07-23 07:40:48.454218"
+}
