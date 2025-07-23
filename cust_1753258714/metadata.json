@@ -1,0 +1,19 @@
+{
+  "name": "MoonToken",
+  "symbol": "MOON",
+  "description": "SwagRibbit custom token on Solana Devnet",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/logo.png",
+  "external_url": "https://swagribbit.xyz",
+  "mint": "AAdDUXmdMBoM3Am3TwFZRDGaMayLf7a7YartkvPi9GJ1",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
