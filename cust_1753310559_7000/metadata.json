@@ -1,0 +1,14 @@
+{
+  "name": "moon27",
+  "symbol": "MOON",
+  "description": "MOON",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/cust_1753310559_7000/token_23148.png",
+  "external_url": "MOON",
+  "twitter": "MOON",
+  "properties": {
+    "files": [{
+      "uri": "token_23148.png",
+      "type": "image/png"
+    }]
+  }
+}
