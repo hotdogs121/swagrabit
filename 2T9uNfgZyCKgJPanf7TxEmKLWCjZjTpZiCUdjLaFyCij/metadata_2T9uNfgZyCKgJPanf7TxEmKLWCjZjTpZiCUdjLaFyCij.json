@@ -1,0 +1,29 @@
+{
+  "name": "SwagRibbit22",
+  "symbol": "SWAG",
+  "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/2T9uNfgZyCKgJPanf7TxEmKLWCjZjTpZiCUdjLaFyCij/metadata_2T9uNfgZyCKgJPanf7TxEmKLWCjZjTpZiCUdjLaFyCij.json",
+  "description": "SwagRibbit is a meme token launched on Solana Devnet.",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/2T9uNfgZyCKgJPanf7TxEmKLWCjZjTpZiCUdjLaFyCij/SwagRibbit_2T9uNfgZyCKgJPanf7TxEmKLWCjZjTpZiCUdjLaFyCij.png",
+  "external_url": "https://swagribbit.xyz",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/2T9uNfgZyCKgJPanf7TxEmKLWCjZjTpZiCUdjLaFyCij/SwagRibbit_2T9uNfgZyCKgJPanf7TxEmKLWCjZjTpZiCUdjLaFyCij.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/2T9uNfgZyCKgJPanf7TxEmKLWCjZjTpZiCUdjLaFyCij/metadata_2T9uNfgZyCKgJPanf7TxEmKLWCjZjTpZiCUdjLaFyCij.json",
+        "type": "application/json"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "swgQzagBtuvdWuoCZv6v1bKAU99Uw2sDFrUR8G86RXT",
+        "share": 100
+      }
+    ]
+  }
+}
