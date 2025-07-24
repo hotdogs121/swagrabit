@@ -1,0 +1,17 @@
+{
+  "name": "SwagRibbit22",
+  "symbol": "SWAG",
+  "description": "SwagRibbit is a meme token deployed on Solana Devnet using the classic SPL Token program.",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/EAj9BaUhgGY9GJ2Wjcn6a6qLACUg32t15DVErDdMpXmB/SwagRibbit_EAj9BaUhgGY9GJ2Wjcn6a6qLACUg32t15DVErDdMpXmB.png",
+  "external_url": "https://swagribbit.xyz",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "creators": [{"address": "kk1FS3itVmUJ6Qm1EYrDj2WWJrY4XkYdR8Aq24R6hLr", "share": 100}],
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/EAj9BaUhgGY9GJ2Wjcn6a6qLACUg32t15DVErDdMpXmB/SwagRibbit_EAj9BaUhgGY9GJ2Wjcn6a6qLACUg32t15DVErDdMpXmB.png", "type": "image/png" },
+      { "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/EAj9BaUhgGY9GJ2Wjcn6a6qLACUg32t15DVErDdMpXmB/metadata_EAj9BaUhgGY9GJ2Wjcn6a6qLACUg32t15DVErDdMpXmB.json", "type": "application/json" }
+    ]
+  }
+}
