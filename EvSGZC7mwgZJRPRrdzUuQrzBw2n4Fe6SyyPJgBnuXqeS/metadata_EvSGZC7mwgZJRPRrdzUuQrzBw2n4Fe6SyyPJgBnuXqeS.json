@@ -1,0 +1,27 @@
+{
+  "description": "moon",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/EvSGZC7mwgZJRPRrdzUuQrzBw2n4Fe6SyyPJgBnuXqeS/SwagRibbit_EvSGZC7mwgZJRPRrdzUuQrzBw2n4Fe6SyyPJgBnuXqeS.png",
+  "name": "moont1",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "kk1FS3itVmUJ6Qm1EYrDj2WWJrY4XkYdR8Aq24R6hLr",
+        "share": 100,
+        "verified": true
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/EvSGZC7mwgZJRPRrdzUuQrzBw2n4Fe6SyyPJgBnuXqeS/SwagRibbit_EvSGZC7mwgZJRPRrdzUuQrzBw2n4Fe6SyyPJgBnuXqeS.png"
+      },
+      {
+        "type": "application/json",
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/EvSGZC7mwgZJRPRrdzUuQrzBw2n4Fe6SyyPJgBnuXqeS/metadata_EvSGZC7mwgZJRPRrdzUuQrzBw2n4Fe6SyyPJgBnuXqeS.json"
+      }
+    ]
+  },
+  "seller_fee_basis_points": 0,
+  "symbol": "MOON"
+}
