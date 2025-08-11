@@ -1,0 +1,27 @@
+{
+  "description": "sdsd",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/41ArbYLdgsvEMWAAEy38bFpgNDFGw6oYShPuBSFEgJdC/SwagRibbit_41ArbYLdgsvEMWAAEy38bFpgNDFGw6oYShPuBSFEgJdC.png",
+  "name": "mike",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "kk1FS3itVmUJ6Qm1EYrDj2WWJrY4XkYdR8Aq24R6hLr",
+        "share": 100,
+        "verified": true
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/41ArbYLdgsvEMWAAEy38bFpgNDFGw6oYShPuBSFEgJdC/SwagRibbit_41ArbYLdgsvEMWAAEy38bFpgNDFGw6oYShPuBSFEgJdC.png"
+      },
+      {
+        "type": "application/json",
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/41ArbYLdgsvEMWAAEy38bFpgNDFGw6oYShPuBSFEgJdC/metadata_41ArbYLdgsvEMWAAEy38bFpgNDFGw6oYShPuBSFEgJdC.json"
+      }
+    ]
+  },
+  "seller_fee_basis_points": 0,
+  "symbol": "MW"
+}
