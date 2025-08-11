@@ -1,0 +1,27 @@
+{
+  "description": "sdsd",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/2GimMAJq9cJissCBZXDTqxgvXyZ91GgX3VXrHxBHcV7h/SwagRibbit_2GimMAJq9cJissCBZXDTqxgvXyZ91GgX3VXrHxBHcV7h.png",
+  "name": "mike2121",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "kk1FS3itVmUJ6Qm1EYrDj2WWJrY4XkYdR8Aq24R6hLr",
+        "share": 100,
+        "verified": true
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/2GimMAJq9cJissCBZXDTqxgvXyZ91GgX3VXrHxBHcV7h/SwagRibbit_2GimMAJq9cJissCBZXDTqxgvXyZ91GgX3VXrHxBHcV7h.png"
+      },
+      {
+        "type": "application/json",
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/2GimMAJq9cJissCBZXDTqxgvXyZ91GgX3VXrHxBHcV7h/metadata_2GimMAJq9cJissCBZXDTqxgvXyZ91GgX3VXrHxBHcV7h.json"
+      }
+    ]
+  },
+  "seller_fee_basis_points": 0,
+  "symbol": "MW"
+}
