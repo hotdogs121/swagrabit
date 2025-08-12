@@ -1,0 +1,27 @@
+{
+  "description": "milk token das das das da d sd ad asdas dasg dgsgd g dsgsg dg sgs dgfsg dfg dfg fd g fdg fdgdfgfgd gdf gdfg fgdf gfd gfd gf",
+  "image": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/63mgTpwMZ6HdeCgRyiXM8ZyJGFfacEH3XVQJs6FdAKcn/SwagRibbit_63mgTpwMZ6HdeCgRyiXM8ZyJGFfacEH3XVQJs6FdAKcn.png",
+  "name": "milkbed",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "kk1FS3itVmUJ6Qm1EYrDj2WWJrY4XkYdR8Aq24R6hLr",
+        "share": 100,
+        "verified": true
+      }
+    ],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/63mgTpwMZ6HdeCgRyiXM8ZyJGFfacEH3XVQJs6FdAKcn/SwagRibbit_63mgTpwMZ6HdeCgRyiXM8ZyJGFfacEH3XVQJs6FdAKcn.png"
+      },
+      {
+        "type": "application/json",
+        "uri": "https://raw.githubusercontent.com/hotdogs121/swagrabit/main/63mgTpwMZ6HdeCgRyiXM8ZyJGFfacEH3XVQJs6FdAKcn/metadata_63mgTpwMZ6HdeCgRyiXM8ZyJGFfacEH3XVQJs6FdAKcn.json"
+      }
+    ]
+  },
+  "seller_fee_basis_points": 0,
+  "symbol": "MB"
+}
